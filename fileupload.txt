@@ -1,0 +1,14 @@
+pip install mysql-connector
+pip install Flask
+<<<<<<< HEAD
+qqqqqqq
+=======
+qwejqwohe
+>>>>>>> add_file_upload
+<<<<<<< HEAD
+qweqwes
+////////
+=======
+qweqwe
+mfkfkf
+>>>>>>> 1b
